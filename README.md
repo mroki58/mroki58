@@ -1,9 +1,9 @@
 <h1 align="center">Hello!!!</h1>
 <h3 align="center">Keep in touch</h3>
 
-- 🌱 I’m currently learning **backend and various databases**
+- 🌱 I’m currently learning **Lavarel :)))**
 
-- 💬 Ask me about **C++ :)**
+- 💬 Ask me about **anything but sysytemverilog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
