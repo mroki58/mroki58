@@ -1,7 +1,7 @@
 <h1 align="center">Hello!!!</h1>
 <h3 align="center">Keep in touch</h3>
 
-- 🌱 I’m currently learning **Lavarel :)))**
+- 🌱 I’m currently learning **Laravel :)))**
 
 - 💬 Ask me about **anything but sysytemverilog**
 
